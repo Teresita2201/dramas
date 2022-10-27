@@ -1,0 +1,48 @@
+.cuadro-general {
+    height: 500px;
+    width: 400px;
+    
+    background: white;
+    padding: 40px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-family: 'calibri';
+    color: black;
+}
+
+.login{
+    background-image:  url('../img/belleza.jpeg');
+    background-size: 100% 100%;
+    min-height: 100vmin;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px + 2vmin;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+
+.Registro{
+    background-image:  url('../img/belleza.jpeg');
+    background-size: 100% 100%;
+    min-height: 120vmin;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px + 2vmin;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+

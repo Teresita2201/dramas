@@ -1,0 +1,143 @@
+.registro-logo{
+    height: 200px;
+    width: 200px;
+
+    padding: 20%;
+    
+    margin-top: none;
+    background: left;
+    transform: translateX(35%) translateY(-30%);
+    
+    
+}
+
+.row-nomRegistro {
+    padding: 1px;
+    text-align: center;
+    font-size: 25px;
+    position: initial;
+   
+    
+    left: 100%;
+    top: 100%;
+    
+    transform: translateX(-0%) translateY(-600%);
+    color: rgb(0, 49, 155);
+
+}
+
+.Formulario-registro{
+    border-radius: 50%;
+
+    font-size: 90%;
+    line-height: 10px;
+    transform: translateX(1%) translateY(-50%);
+
+}
+
+
+
+
+
+
+
+
+
+.Registro-button  {
+    
+    position: absolute;
+    background-color: blue;
+    margin: 5px 160px;
+    padding: 10px 20px; 
+    transform: translateX(10%) translateY(250%);
+    
+}
+
+
+
+
+
+
+
+.blanco-header {
+    height: 570px;
+    width: 400px;
+    
+    background: white;
+    padding: 40px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 15px;
+    font-family: 'calibri';
+    color: black;
+}
+
+
+.titulo{
+    font-size: 20px;
+
+    transform: translateX(5%) translateY(-190%);
+
+}
+
+.barra2{
+    
+    padding: 10px;
+    
+    font-size: 20px;
+    
+    transform: translateX(30%) translateY(-100%);
+    
+
+}
+
+
+.columna2{
+    padding: 5px;
+    width: 60%;
+}
+
+/* css de boton enviar*/
+.boton2:hover{
+    background-color: cadetblue;
+    color: blue;
+
+}
+.botone2 {
+   
+    
+    font-size: 20px;
+    background-color: rgb(28, 8, 207);
+    color: rgb(255, 255, 255);
+    border: 2px solid black;
+
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+ 
+
+}
+
+
+
+
+/* css de pregunta si ya tenemos cuenta*/
+.pregunta2{
+    
+    text-align: center;
+    transform: translateX(5%) translateY(-80%);
+}
+
+.lin2:hover{
+    background-color: cadetblue;
+    color: blue;
+
+}
+.linea2{
+    border: none;
+    background-color: white;
+    color: blue;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
